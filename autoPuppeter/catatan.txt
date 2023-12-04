@@ -1,0 +1,5 @@
+npm init -y
+
+/untuk install puppeter
+yarn add puppeteer
+npm i puppeteer --save  
